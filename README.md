@@ -9,6 +9,7 @@
 
 ## squall
 php artisan serve
+https://www.itsolutionstuff.com/post/laravel-9-crud-application-tutorial-exampleexample.html
 
 ## About Laravel
 
