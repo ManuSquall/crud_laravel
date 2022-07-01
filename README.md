@@ -12,8 +12,6 @@ php artisan serve
 
 https://www.itsolutionstuff.com/post/laravel-9-crud-application-tutorial-exampleexample.html
 
-https://www.itsolutionstuff.com/post/laravel-9-crud-application-tutorial-exampleexample.html
-
 https://www.youtube.com/watch?v=LvF88TKw-BU
 
 
