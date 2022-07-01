@@ -10,4 +10,8 @@ class Categorie extends Model
     protected $table = 'categories';
     protected $primaryKey = 'id';
     protected $fillable = ['nom'];
+
+    public function categories(){
+        return $this->hasMany('App\Produits');
+    }
 }
